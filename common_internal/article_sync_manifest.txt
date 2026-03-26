@@ -1,0 +1,10 @@
+# One relative path per line.
+# These paths are copied from the source site root to all other site roots.
+#
+# Example:
+# research.html
+# ai-security/new-topic.html
+# ai-foundations/new-foundation.html
+# assets/img/diagrams/new-topic.svg
+# assets/img/highlight-new-topic.svg
+# assets/docs/new-paper.pdf
